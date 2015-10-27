@@ -1,7 +1,35 @@
-body {
-    margin-top: 70px;
+#name{
+	color: white;
 }
 
-footer {
-    margin: 50px 0;
+a{
+	color: rgb(51,51,51);
+}
+
+body {
+    padding-top: 70px;
+}
+
+.row{
+	display: flex;
+	display: -webkit-flex;
+	align-items: center;
+	-webkit-align-items: center;
+}
+
+h3{
+	margin-top: 0;
+}
+
+#roles {
+	margin-bottom: 0;
+}
+
+.btn.btn-primary{
+	background-color: #266B39;
+	border-color: #266B39;
+}
+
+footer{
+    margin: 30px 0;
 }
