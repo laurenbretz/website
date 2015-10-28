@@ -2,12 +2,16 @@
 	color: white;
 }
 
+#resume{
+	text-decoration: none;
+}
+
 a{
 	color: rgb(51,51,51);
 }
 
 body {
-    padding-top: 70px;
+    padding-top: 6%;
 }
 
 .row{
@@ -17,12 +21,22 @@ body {
 	-webkit-align-items: center;
 }
 
+.vcenter {
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
+
 h3{
 	margin-top: 0;
 }
 
 #roles {
 	margin-bottom: 0;
+}
+
+.col-md-6.col-xs-12{
+	padding-bottom: 30px;
 }
 
 .btn.btn-primary{
