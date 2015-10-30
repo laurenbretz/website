@@ -10,6 +10,16 @@ a{
 	color: rgb(51,51,51);
 }
 
+a:focus{
+	color: #266B39;
+	text-decoration: none;
+}
+
+a:hover{
+	color: #266B39;
+	text-decoration: none;
+}
+
 h3{
 	margin-top: 0;
 }
